@@ -1,0 +1,6 @@
+/* this changes the text and background color*/
+div{
+        color:white;
+    width: fit-content;
+    background-color: red;
+}
