@@ -1,0 +1,21 @@
+.odd {
+    width: fit-content;
+    background-color: #FF69B4;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#secondElement{
+    color:#0000FF;
+    font-size: 36px;
+}
+
+#fourthElement{
+    width: fit-content;
+    background-color: #00FF00;
+    font-size: 24px;
+    font-weight: bold;
+}
