@@ -31,7 +31,10 @@ button {
   background: white;
   border: 1px solid #eee;
   margin: 0 auto;
-  padding: 8px 24px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
 
 .title, div.content, .button-container{
